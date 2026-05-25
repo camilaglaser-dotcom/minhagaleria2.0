@@ -1,6 +1,35 @@
-.imagem[]
-\*largura*/
-::-webkit 250px;
-/tmp/guest-qj8kvs/Downloads/snake
-*altura*
-height:250px;
+body{
+  margin: 0;/*remove a imagem*/background-color: rgb(164, 0, 247);/*muda a cor do fundo*/
+  
+  
+
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;/*tipo da letra*/
+
+
+}
+h1{
+
+ text-align: center;/*alinhamento do titulo*/   
+margig-bottom;30px;/*margem do titulo*/
+
+
+
+
+.imagem
+
+display;grid;/*faz a tela ficar3x3*/  
+grid-complate-columns; repeat;[ auto-fit,minmax[250px,1fr]]/*cria colunas,auto fit=encaixa as colunas inmax=restringe o numero de colunas*/
+
+
+
+
+
+
+margin:auto;/*margem*/
+
+}
+
+
+
+
+
